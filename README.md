@@ -25,6 +25,7 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 - **[Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Knowledge graph-based persistent memory system
 - **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences
 - **[Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time)** - Time and timezone conversion capabilities
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Official Servers
 
